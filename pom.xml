@@ -33,5 +33,11 @@
 	<modules>
 		<module>chapter03</module>
 		<module>chapter04</module>
+		<module>network</module>
+		<module>java-practices01</module>
+		<module>java-practices02</module>
+		<module>java-practices03</module>
+		<module>java-practices04</module>
+		<module>java-practices05</module>
 	</modules>
 </project>
